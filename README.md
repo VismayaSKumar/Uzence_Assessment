@@ -78,22 +78,6 @@ Storybook serves as an interactive playground and documentation for your UI comp
 
 ---
 
-## Project Structure
-
-src/
-├── components/
-│ ├── InputField/
-│ │ ├── InputField.tsx
-│ │ ├── InputField.stories.tsx
-│ ├── DataTable/
-│ │ ├── DataTable.tsx
-│ │ ├── DataTable.stories.tsx
-├── App.tsx
-|── index.css
-└── main.tsx
-
----
-
 ## Approach and Design Decisions
 
 - Used **TypeScript** generics in DataTable to ensure type safety for columns and data rows.
@@ -106,7 +90,7 @@ src/
 
 ## Deployment
 
-- Storybook preview is deployed using [uzence-assessment-2w2nrw5ek-vismayaskumars-projects.vercel.app](storybook)
+- Storybook preview is deployed using [https://uzence-assessment-98pe0sh7z-vismayaskumars-projects.vercel.app/?path=/docs/configure-your-project--docs]
 - The main app runs in development mode locally and can be deployed on any React-supporting platform.
 
 ---

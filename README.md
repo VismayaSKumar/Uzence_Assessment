@@ -36,13 +36,16 @@ It is designed with modern React patterns, accessibility, and scalability in min
 ### Installation
 
 1. Clone the repository:
+
 git clone https://github.com/VismayaSKumar/Uzence_Assessment
 cd Uzence_Assessment
 
 2. Install dependencies:
+
 npm install or yarn install
 
 3. Run the development server:
+
 npm start or yarn start
 
 
@@ -88,10 +91,13 @@ Storybook serves as an interactive playground and documentation for your UI comp
 
 ---
 
+
+---
+
 ## Deployment
 
-- Storybook preview is deployed using [https://uzence-assessment-98pe0sh7z-vismayaskumars-projects.vercel.app/?path=/docs/configure-your-project--docs]
-- The main app runs in development mode locally and can be deployed on any React-supporting platform.
+- Storybook preview is deployed [here](https://uzence-assessment-98pe0sh7z-vismayaskumars-projects.vercel.app/?path=/docs/configure-your-project--docs).
+
 
 ---
 

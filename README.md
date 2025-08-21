@@ -106,7 +106,7 @@ src/
 
 ## Deployment
 
-- Storybook preview is deployed using [Chromatic / Vercel] *(update with your actual deployment link)*.
+- Storybook preview is deployed using [uzence-assessment-2w2nrw5ek-vismayaskumars-projects.vercel.app](storybook)
 - The main app runs in development mode locally and can be deployed on any React-supporting platform.
 
 ---

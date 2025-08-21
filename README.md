@@ -50,6 +50,20 @@ npm start or yarn start
 
 
 ---
+## File structure 
+
+src/
+├── components/
+│   ├── InputField/
+│   │   ├── InputField.tsx
+│   │   ├── InputField.stories.tsx
+│   ├── DataTable/
+│   │   ├── DataTable.tsx
+│   │   ├── DataTable.stories.tsx
+├── App.tsx
+└── index.tsx
+
+---
 
 ## Usage
 
